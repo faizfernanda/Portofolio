@@ -134,7 +134,7 @@ Tujuannya adalah agar distribusi informasi, pengetahuan, dan komunikasi antar ag
 ### 1. Dashboard
 - Tampilan utama yang menyajikan ringkasan aktivitas sistem.  
 - Grafik/statistik penggunaan dokumen dan artikel.  
-![Dashboard](asset_dms/dashboard.png)
+![Dashboard](asset_dms/dashboard.jpg)
 
 ---
 
@@ -142,14 +142,14 @@ Tujuannya adalah agar distribusi informasi, pengetahuan, dan komunikasi antar ag
 - Penyimpanan & pengelolaan artikel/dokumen.  
 - Artikel dikelompokkan berdasarkan **kategori utama (main_category)**.  
 - Mempermudah agen menemukan pengetahuan sesuai bidang.  
-![Knowledge](asset_dms/knowledge.png)
+![Knowledge](asset_dms/knowledge.jpg)
 
 ---
 
 ### 3. Approval (CSO Approval)
 - Proses **approve dokumen** secara digital sebelum dipublikasikan.  
 - Meningkatkan akurasi & validitas artikel yang disebarkan ke agen.  
-![Approval](asset_dms/approve_cso.png)
+![Approval](asset_dms/approve_cso.jpg)
 
 ---
 
@@ -157,7 +157,7 @@ Tujuannya adalah agar distribusi informasi, pengetahuan, dan komunikasi antar ag
 - Fitur **chat antar agen** untuk diskusi langsung terkait dokumen/artikel.
 - Fitur Broadcast mempercepat informasi penting dan urgent
 - Mendukung kolaborasi cepat.  
-![Chat](asset_dms/chat.png)
+![Chat](asset_dms/chat.jpg)
 
 ---
 
@@ -171,7 +171,7 @@ Tujuannya adalah agar distribusi informasi, pengetahuan, dan komunikasi antar ag
 ### 6. Notification
 - Sistem notifikasi untuk mengingatkan update dokumen/artikel.  
 - Termasuk notifikasi approval, artikel baru, maupun komentar baru.  
-![Notification](asset_dms/notif.png)
+![Notification](asset_dms/notif.jpg)
 
 ---
 
