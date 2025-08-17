@@ -178,7 +178,7 @@ Tujuannya adalah agar distribusi informasi, pengetahuan, dan komunikasi antar ag
 ### 7. Quick Filter
 - Pencarian artikel/dokumen lebih cepat dengan **filter kategori & metadata**.  
 - Mempercepat navigasi dalam jumlah dokumen yang besar.  
-![Quickfilter](asset_dms/quickfilter.png)
+![Quickfilter](asset_dms/quickfilter.jpg)
 
 ---
 
