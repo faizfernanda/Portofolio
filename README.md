@@ -242,8 +242,8 @@ Sistem ini mendukung monitoring keuangan secara **real-time** mencakup anggaran,
 - Pemantauan biaya docking kapal.  
 - Perbandingan biaya aktual vs estimasi.  
 - Tren biaya docking per periode.  
-![Docking Monitoring](asset_venus/dockingmonitooring.jpg)  
-![Docking Monitoring 2](asset_venus/dockingmonitooring2.jpg)
+![Docking Monitoring](asset_venus/dockingmonitoring.jpg)  
+![Docking Monitoring 2](asset_venus/dockingmonitoring2.jpg)
 
 ---
 
@@ -251,7 +251,7 @@ Sistem ini mendukung monitoring keuangan secara **real-time** mencakup anggaran,
 - Analisis kinerja investasi.  
 - Menampilkan ROI, IRR, dan nilai proyek.  
 - Grafik & pie chart untuk memudahkan pemahaman.  
-![Investment Monitoring](asset_venus/investmentmonitooring.jpg)
+![Investment Monitoring](asset_venus/investmentmonitoring.jpg)
 
 ---
 
