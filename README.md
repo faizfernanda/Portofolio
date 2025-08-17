@@ -134,7 +134,7 @@ Tujuannya adalah agar distribusi informasi, pengetahuan, dan komunikasi antar ag
 ### 1. Dashboard
 - Tampilan utama yang menyajikan ringkasan aktivitas sistem.  
 - Grafik/statistik penggunaan dokumen dan artikel.  
-![Dashboard](assetdms/dashboard.png)
+![Dashboard](asset_dms/dashboard.png)
 
 ---
 
@@ -142,14 +142,14 @@ Tujuannya adalah agar distribusi informasi, pengetahuan, dan komunikasi antar ag
 - Penyimpanan & pengelolaan artikel/dokumen.  
 - Artikel dikelompokkan berdasarkan **kategori utama (main_category)**.  
 - Mempermudah agen menemukan pengetahuan sesuai bidang.  
-![Knowledge](assetdms/knowledge.png)
+![Knowledge](asset_dms/knowledge.png)
 
 ---
 
 ### 3. Approval (CSO Approval)
 - Proses **approve dokumen** secara digital sebelum dipublikasikan.  
 - Meningkatkan akurasi & validitas artikel yang disebarkan ke agen.  
-![Approval](assetdms/approve_cso.png)
+![Approval](asset_dms/approve_cso.png)
 
 ---
 
@@ -157,28 +157,28 @@ Tujuannya adalah agar distribusi informasi, pengetahuan, dan komunikasi antar ag
 - Fitur **chat antar agen** untuk diskusi langsung terkait dokumen/artikel.
 - Fitur Broadcast mempercepat informasi penting dan urgent
 - Mendukung kolaborasi cepat.  
-![Chat](assetdms/chat.png)
+![Chat](asset_dms/chat.png)
 
 ---
 
 ### 5. My Note
 - Agen bisa membuat catatan pribadi terkait dokumen/artikel.  
 - Menjadi *knowledge base* personal untuk masing-masing user.  
-![Mynote](assetdms/mynote.png)
+![Mynote](asset_dms/mynote.png)
 
 ---
 
 ### 6. Notification
 - Sistem notifikasi untuk mengingatkan update dokumen/artikel.  
 - Termasuk notifikasi approval, artikel baru, maupun komentar baru.  
-![Notification](assetdms/notif.png)
+![Notification](asset_dms/notif.png)
 
 ---
 
 ### 7. Quick Filter
 - Pencarian artikel/dokumen lebih cepat dengan **filter kategori & metadata**.  
 - Mempercepat navigasi dalam jumlah dokumen yang besar.  
-![Quickfilter](assetdms/quickfilter.png)
+![Quickfilter](asset_dms/quickfilter.png)
 
 ---
 
