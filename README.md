@@ -29,7 +29,7 @@ Hal ini menimbulkan kebutuhan akan sistem terintegrasi yang mampu menangani alur
 - SLA monitoring (*Tickets Open >24 hours, Average Resolution Time*).
 - Visualisasi status dalam bentuk card interaktif.  
 
-![Dashboard Monitoring](Asset Ciptools/Dashboard.jpeg)
+![Dashboard Monitoring](Asset%20Ciptools/Dashboard.jpeg)
 
 ---
 
@@ -38,7 +38,7 @@ Hal ini menimbulkan kebutuhan akan sistem terintegrasi yang mampu menangani alur
 - Monitoring status survei: *Complete* vs *Not Complete*.  
 - Breakdown data per **area, region, cabang**.  
 
-![Survey Monitoring](Asset Ciptools/complete_survey.jpeg)
+![Survey Monitoring](Asset%20Ciptools/complete_survey.jpeg)
 
 ---
 
@@ -48,7 +48,7 @@ Hal ini menimbulkan kebutuhan akan sistem terintegrasi yang mampu menangani alur
 - Tracking status alert: *Open → Assigned → Resolved → Closed*.  
 - **Email notifikasi otomatis** setelah status berubah.  
 
-![Alert Resolution](Asset Ciptools/alert.jpeg)
+![Alert Resolution](Asset%20Ciptools/alert.jpeg)
 
 ---
 
@@ -96,16 +96,16 @@ Hal ini menimbulkan kebutuhan akan sistem terintegrasi yang mampu menangani alur
 Beberapa tampilan aplikasi:
 
 - Dashboard Monitoring  
-  ![Dashboard](Asset Ciptools/Dashboard.jpeg)
+  ![Dashboard](Asset%20Ciptools/Dashboard.jpeg)
 
 - Not Yet Complete Survey  
-  ![Survey Monitoring](](Asset Ciptools/not_complete_survey.jpeg)
+  ![Survey Monitoring](Asset%20Ciptools/not_yet_complete_survey.jpeg)
 
 - Complete Survey Detail  
-  ![Survey Detail](Asset Ciptools/complete_survey.jpeg)
+  ![Survey Detail](Asset%20Ciptools/complete_survey.jpeg)
 
 - Alert Resolution Form  
-  ![Alert Resolution](Asset Ciptools/alert.jpeg)
+  ![Alert Resolution](Asset%20Ciptools/alert.jpeg)
 
 ---
 
