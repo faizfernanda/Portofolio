@@ -213,5 +213,84 @@ Tujuannya adalah agar distribusi informasi, pengetahuan, dan komunikasi antar ag
 Sistem ini merupakan aplikasi internal **PT Patra Niaga** untuk mendukung operasional agen.  
 Hak cipta © PT Patra Niaga. All rights reserved.
 
+# 💹 Venus Finance – PT Pertamina Shipping
+
+**Venus Finance** adalah aplikasi dashboard keuangan yang dikembangkan untuk **PT Pertamina Internasional Shipping**.  
+Sistem ini mendukung monitoring keuangan secara **real-time** mencakup anggaran, biaya docking, investasi, hingga biaya operasional, sehingga mempermudah manajemen dalam pengambilan keputusan.
+
+---
+
+## 🎯 Tujuan
+- Menyediakan **dashboard keuangan terintegrasi** bagi manajemen.  
+- Mempermudah analisis budget, OPEX, dan investasi.  
+- Mengurangi pekerjaan manual dalam laporan keuangan.  
+- Memberikan **visualisasi data** yang lebih mudah dipahami.  
+
+---
+
+## ✨ Fitur Utama
+
+### 📊 Budget Monitoring
+- Monitoring realisasi anggaran terhadap budget.  
+- Identifikasi potensi *over budget*.  
+- Visualisasi progress pemakaian anggaran.  
+![Budget Monitoring](asset_venus/budgetmonitooring.jpg)
+
+---
+
+### ⚓ Docking Monitoring
+- Pemantauan biaya docking kapal.  
+- Perbandingan biaya aktual vs estimasi.  
+- Tren biaya docking per periode.  
+![Docking Monitoring](asset_venus/dockingmonitooring.jpg)  
+![Docking Monitoring 2](asset_venus/dockingmonitooring2.jpg)
+
+---
+
+### 💰 Investment Monitoring
+- Analisis kinerja investasi.  
+- Menampilkan ROI, IRR, dan nilai proyek.  
+- Grafik & pie chart untuk memudahkan pemahaman.  
+![Investment Monitoring](asset_venus/investmentmonitooring.jpg)
+
+---
+
+### 🔧 Operating Cost Monitoring
+- Monitoring biaya operasional (OPEX).  
+- Breakdown biaya berdasarkan kategori (SDM, perawatan, bahan bakar, dll).  
+- Kontrol efisiensi biaya operasional perusahaan.  
+![Operating Cost](asset_venus/operatingcost.jpg)  
+![Operating Cost 2](asset_venus/operatingcost2.jpg)
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+- **Frontend:** Dashboard berbasis Bootstrap / Power BI / Chart.js (disesuaikan)  
+- **Backend:** ASP.NET Core / Node.js (disesuaikan)  
+- **Database:** SQL Server / Oracle  
+- **Integrasi:** API keuangan internal PT Pertamina Shipping  
+
+---
+
+## 📊 Dampak Sistem
+- Memberikan **transparansi** keuangan perusahaan.  
+- Mempercepat analisis laporan bulanan & tahunan.  
+- Mengurangi risiko kesalahan input manual.  
+- Mendukung pengambilan keputusan strategis berbasis data.  
+
+---
+
+## 👩‍💻 Peran & Kontribusi
+- Mendesain arsitektur dashboard dan integrasi data keuangan.  
+- Mengembangkan modul **Budget Monitoring & Docking Monitoring**.  
+- Membuat query & pipeline data untuk analisis investasi dan OPEX.  
+- Menyusun dokumentasi & user guide untuk pengguna internal.  
+
+---
+
+## 📌 Catatan
+Proyek ini merupakan aplikasi internal **PT Pertamina Internasional Shipping**.  
+Hak cipta © PT Pertamina Shipping. All rights reserved.
+
 
 
